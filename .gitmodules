@@ -1,3 +1,0 @@
-[submodule "deps/fennel-test"]
-	path = deps/fennel-test
-	url = https://github.com/andreyorst/fennel-test
